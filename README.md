@@ -40,4 +40,4 @@
 
 ### 三退聲明：[我要做三退](https://tuidang.epochtimes.com/)
 
-## [返回主頁](https://git.io/Js3EY)
+## [返回主页](https://git.io/Js3EY)
